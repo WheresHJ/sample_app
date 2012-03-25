@@ -1,0 +1,1 @@
+RoR sample app, as per Chapters 3-9 of the Rails tutorial at http://www.railstutorial.org
